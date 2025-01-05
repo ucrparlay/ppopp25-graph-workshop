@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Parallel Graph Processing and Future Challenges
+title: Parallel Graph Processing and Future Challenges at PPoPP 2025
 email: your-email@example.com
 description: Parallel Graph Processing and Future Challenges at PPoPP 2025
-baseurl: "/ppopp25-graph-workshop/" # the subpath of your site, e.g. /blog
+baseurl: "/ppopp25-graph-workshop" # the subpath of your site, e.g. /blog
 url: "https://ucrparlay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

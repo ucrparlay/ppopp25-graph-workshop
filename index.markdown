@@ -22,9 +22,9 @@ The goal is to share their results on new problems, models, algorithms, framewor
 
 ## **Tentative Speakers**{:id="organizers"}
 
-- Umit V. Catalyurek (Georgia Institute of Technology)
 - Laxman Dhulipala (The University of Maryland)
-- Rajiv Gupta (UC Riverside)
+- Yan Gu (University of California, Riversie)
+- Prashant Pandey (Northeastern University)
 - Richard W. Vuduc (Georgia Institute of Technology)
 - Da Yan (Indiana University)
 

@@ -34,14 +34,19 @@ More information about the speakers and talks can be found [here](/abstracts/).
 ## **Workshop Schedule**{:id="schedule"}
 
 1:00 - 1:10 pm    Opening Remark
+
 1:15 - 1:45 pm    Parallel and Space-Efficient Dynamic Graph Algorithms (by Laxman Dhulipala)
+
 1:50 - 2:20 pm    Randomized numerical linear algebra for graphs? (by Richard W. Vuduc)
+
 2:25 - 2:55 pm    T-thinker: A Task-Based Parallel Computing Model for Compute-Intensive Graph Analytics and Beyond (by Da Yan)
 
 3:00 - 3:30 pm    PM Coffee Break
 
 3:30 - 4:00 pm    Recent Advances and Challenges in Parallel Graph Algorithms (by Yan Gu)
+
 4:05 - 4:35 pm    Dynamic Graphs: Containers, Frameworks, and Benchmarks (by Prashant Pandey)
+
 4:40 - 5:00 pm    Offline Discussion
 
 6:00 - 8:00 pm    Reception

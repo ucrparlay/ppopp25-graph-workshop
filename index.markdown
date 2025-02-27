@@ -20,13 +20,14 @@ This workshop brings together top researchers in the area of large-scale paralle
 The goal is to share their results on new problems, models, algorithms, frameworks, software, and more importantly, **future challenges** in the area.
 
 
-## **Tentative Speakers**{:id="organizers"}
+## **Tentative Speakers**{:id="speakers"}
 
-- Laxman Dhulipala (The University of Maryland)
-- Yan Gu (University of California, Riversie)
-- Prashant Pandey (Northeastern University)
-- Richard W. Vuduc (Georgia Institute of Technology)
-- Da Yan (Indiana University)
+- [Laxman Dhulipala](https://www.cs.umd.edu/~laxman/) (The University of Maryland)
+- [Yan Gu](https://www.cs.ucr.edu/~ygu/) (University of California, Riverside)
+- [Prashant Pandey](https://prashantpandey.github.io/) (Northeastern University)
+- [Richard W. Vuduc](https://vuduc.org/v2/) (Georgia Institute of Technology)
+- [Da Yan](https://homes.luddy.indiana.edu/yanda/home.html) (Indiana University)
+
 
 More information about the speakers and talks can be found [here](/abstracts/).
 

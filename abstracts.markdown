@@ -4,7 +4,7 @@ title: Detailed Talk Information
 permalink: /abstracts/
 ---
 
-#### Title: Parallel and Space-Efficient Dynamic Graph Algorithms
+### Title: Parallel and Space-Efficient Dynamic Graph Algorithms
 
 Abstract:   
 I will argue that a lack of space-efficiency is one of the main bottlenecks preventing broader adoption and application of dynamic graph algorithms in other scientific fields and in industry.  I will then describe some recent and ongoing work on parallel batch-dynamic graph algorithms for undirected connectivity that significantly improve upon the space-efficiency of earlier methods while obtaining good theoretical guarantees and good practical performance.  I will end by describing some open problems and thoughts on how to make scalable and theoretically-efficient large-scale dynamic graph processing a reality.
@@ -15,7 +15,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 
 
 
-#### Title: Randomized numerical linear algebra for graphs?
+### Title: Randomized numerical linear algebra for graphs?
 
 
 Abstract: 
@@ -30,8 +30,7 @@ Richard (“Rich”) Vuduc is a professor in the School of Computational Science
 
 
 
-Title:
-T-thinker: A Task-Based Parallel Computing Model for Compute-Intensive Graph Analytics and Beyond
+Title: T-thinker: A Task-Based Parallel Computing Model for Compute-Intensive Graph Analytics and Beyond
 
 Abstract:
 Pioneered by Google's Pregel, the think-like-a-vertex (TLAV) computing model has dominated the area of parallel and distributed graph processing. However, TLAV models are only scalable for data-intensive iterative graph algorithms such as random walks and graph traversal. Unfortunately, researchers were using TLAV models to solve compute-intensive graph problems, leading to performance not much beyond that of a serial algorithm due to the IO bottleneck incurred by unnecessarily materializing a lot of intermediate data. This talk advocates a new parallel computing model called T-thinker, which adopts the think-like-a-task (TLAT) computing paradigm to divide the computing workloads of compute-intensive problems while allowing backtracking search to avoid data materialization as much as possible. We will explain how the T-thinker model can achieve ideal speedup ratio for many compute-intensive problems such as mining dense subgraphs, frequent subgraph pattern mining, and subgraph matching/enumeration. A number of TLAT-based systems will be covered including G-thinker, G-thinkerQ, T-FSM, PrefixFPM, G2-AIMD and T-DFS, which tackles compute-intensive graph problems in various settings such as on a shared-memory multi-core machine, on a distributed cluster, and on multiple GPUs. We will also explain how the T-thinker model applies beyond the graph domain to problems such as training big models consisting of many decision trees, and massively parallel spatial data processing.

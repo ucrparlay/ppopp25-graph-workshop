@@ -4,7 +4,7 @@ title: Detailed Talk Information
 permalink: /abstracts/
 ---
 
-### **Title: Parallel and Space-Efficient Dynamic Graph Algorithms**
+### **Parallel and Space-Efficient Dynamic Graph Algorithms**
 
 Abstract:   
 
@@ -17,7 +17,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 
 
 
-### **Title: Randomized numerical linear algebra for graphs?**
+### **Randomized numerical linear algebra for graphs?**
 
 
 Abstract: 
@@ -30,7 +30,7 @@ Richard (“Rich”) Vuduc is a professor in the School of Computational Science
 
 
 
-### **Title: Dynamic Graphs: Containers, Frameworks, and Benchmarks**
+### **Dynamic Graphs: Containers, Frameworks, and Benchmarks**
 
 Abstract: 
 
@@ -47,7 +47,7 @@ Pandey has received the NSF CAREER Award and the IEEE-CS Early Career Researcher
 
 
 
-### Title: **T-thinker: A Task-Based Parallel Computing Model for Compute-Intensive Graph Analytics and Beyond**
+### **T-thinker: A Task-Based Parallel Computing Model for Compute-Intensive Graph Analytics and Beyond**
 
 Abstract:
 

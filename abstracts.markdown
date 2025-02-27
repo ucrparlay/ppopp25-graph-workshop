@@ -21,16 +21,27 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 Abstract: 
 For graph computations that can be formulated in the language of linear algebra where an approximate answer would suffice, it's natural to apply the techniques of randomized numerical linear algebra to them. Sometimes that's easy to do, and sometimes it's hard. We'll illustrate this claim by two examples: triangle counting and all-pairs shortest paths. This work is joint with Irene Simó-Muñoz and Koby Hayashi.
 
-Bio: 
+Biography: 
 Richard (“Rich”) Vuduc is a professor in the School of Computational Science and Engineering at Georgia Tech. His research lab, the HPC Garage, is interested in performance "by any means necessary," whether by smarter algorithms, better analysis, more effective programming techniques, or novel hardware.
 
 
 
+### *Title: Dynamic Graphs: Containers, Frameworks, and Benchmarks*
+
+Abstract: 
+In this talk, I will present our work on developing a dynamic graph container and a unified framework for evaluating graph containers. First, I will introduce Terrace, a streaming graph system built on hierarchical data structures to efficiently manage dynamic graph updates. Second, I will discuss BYO, a benchmarking framework designed to provide a standardized evaluation of graph containers, enabling comparative performance analysis across different systems.
+
+Biography:
+Prashant Pandey is an assistant professor in the Khoury College of Computer Sciences at Northeastern University, based in Boston.
+
+With the exponential growth in humanity’s ability to generate, acquire, and store data, Pandey is focused on creating scalable data systems with robust theoretical foundations. His goal is to ensure that the next generation of data analysis systems can meet these evolving demands in an equitable way. His work spans the entire spectrum of this challenge, from exploring the theoretical aspects of data structures to addressing the practical issues of scaling data systems. Efficient data management plays a critical role in advancing research across various scientific fields, and Pandey has contributed to interdisciplinary data systems in areas such as computational biology, cybersecurity, stream processing, and storage systems.
+
+Pandey has received the NSF CAREER Award and the IEEE-CS Early Career Researchers Award for Excellence in High Performance Computing, Catacosinos Fellowship, a Best paper award at FAST 2016, and Runner’s Up to Best Paper at FAST 2015. Prior to joining Khoury College, he spent a year as a research scientist at VMware and held postdoctoral research positions at UC Berkeley and Carnegie Mellon University.
 
 
 
 
-Title: T-thinker: A Task-Based Parallel Computing Model for Compute-Intensive Graph Analytics and Beyond
+### Title: T-thinker: A Task-Based Parallel Computing Model for Compute-Intensive Graph Analytics and Beyond
 
 Abstract:
 Pioneered by Google's Pregel, the think-like-a-vertex (TLAV) computing model has dominated the area of parallel and distributed graph processing. However, TLAV models are only scalable for data-intensive iterative graph algorithms such as random walks and graph traversal. Unfortunately, researchers were using TLAV models to solve compute-intensive graph problems, leading to performance not much beyond that of a serial algorithm due to the IO bottleneck incurred by unnecessarily materializing a lot of intermediate data. This talk advocates a new parallel computing model called T-thinker, which adopts the think-like-a-task (TLAT) computing paradigm to divide the computing workloads of compute-intensive problems while allowing backtracking search to avoid data materialization as much as possible. We will explain how the T-thinker model can achieve ideal speedup ratio for many compute-intensive problems such as mining dense subgraphs, frequent subgraph pattern mining, and subgraph matching/enumeration. A number of TLAT-based systems will be covered including G-thinker, G-thinkerQ, T-FSM, PrefixFPM, G2-AIMD and T-DFS, which tackles compute-intensive graph problems in various settings such as on a shared-memory multi-core machine, on a distributed cluster, and on multiple GPUs. We will also explain how the T-thinker model applies beyond the graph domain to problems such as training big models consisting of many decision trees, and massively parallel spatial data processing.
@@ -40,16 +51,6 @@ Da Yan is an Associate Professor in the Department of Computer Sciences of the L
 
 
 
-Title: Dynamic Graphs: Containers, Frameworks, and Benchmarks
-
-Abstract: In this talk, I will present our work on developing a dynamic graph container and a unified framework for evaluating graph containers. First, I will introduce Terrace, a streaming graph system built on hierarchical data structures to efficiently manage dynamic graph updates. Second, I will discuss BYO, a benchmarking framework designed to provide a standardized evaluation of graph containers, enabling comparative performance analysis across different systems.
-
-Biography:
-Prashant Pandey is an assistant professor in the Khoury College of Computer Sciences at Northeastern University, based in Boston.
-
-With the exponential growth in humanity’s ability to generate, acquire, and store data, Pandey is focused on creating scalable data systems with robust theoretical foundations. His goal is to ensure that the next generation of data analysis systems can meet these evolving demands in an equitable way. His work spans the entire spectrum of this challenge, from exploring the theoretical aspects of data structures to addressing the practical issues of scaling data systems. Efficient data management plays a critical role in advancing research across various scientific fields, and Pandey has contributed to interdisciplinary data systems in areas such as computational biology, cybersecurity, stream processing, and storage systems.
-
-Pandey has received the NSF CAREER Award and the IEEE-CS Early Career Researchers Award for Excellence in High Performance Computing, Catacosinos Fellowship, a Best paper award at FAST 2016, and Runner’s Up to Best Paper at FAST 2015. Prior to joining Khoury College, he spent a year as a research scientist at VMware and held postdoctoral research positions at UC Berkeley and Carnegie Mellon University.
 
 
 

@@ -14,7 +14,13 @@ Biography:
 
 I am an Assistant Professor in the Department of Computer Science at the University of Maryland, College Park, and a research scientist at Google Research with the Graph Mining team. I obtained my Ph.D. from Carnegie Mellon University, where I was advised by Guy Blelloch, and was a postdoc at MIT working with Julian Shun. I am broadly interested in efficient and practical parallel algorithms, e.g., for parallel clustering and parallel graph processing. I am also interested in models of parallel computation motivated by emerging hardware and exploring these models theoretically and practically.
 
+### **Recent Advances and Challenges in Parallel Graph Algorithms**
 
+In this talk, we will provide a very brief overview of our recent work on various topics, including single-source shortest paths (SPAA'21), strong connectivity (JACM'20, SIGMOD'23), biconnectivity (PPoPP'23, Best Paper), breadth-first search (SPAA'24), k-core (SIGMOD'25), and more. We will discuss the challenges faced by existing parallel solutions, particularly regarding space efficiency and synchronization efficiency. Additionally, we will introduce our recent graph library, graph benchmarks, and a student competition targeting on graph challenges.
+
+Biography:
+
+Yan Gu is an Assistant Professor in the Computer Science and Engineering (CSE) Department at UC Riverside. He completed his PhD at Carnegie Mellon University in 2018 and his Bachelor’s degree at Tsinghua University in 2012. Before joining UCR, he spent one year as a postdoc at MIT. His research interest lies in designing simple and efficient algorithms with strong theoretical guarantees and good practical performance. He is a recipient of the NSF CAREER Award and the Google Research Scholar Program in 2024. He has won the Best Paper Awards at PPoPP'23 and ESA'23, the Best Paper Runner-up at VLDB'23, and the Outstanding Paper Awards at SPAA'24 and SPAA'20.
 
 
 ### **Randomized numerical linear algebra for graphs?**

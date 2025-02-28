@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-Time: 2-6 PM, March 2
+Time: 1-5 PM, March 2
 
 Location: To be assigned
 
